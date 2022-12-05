@@ -1,0 +1,9 @@
+html {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+span {
+  position: relative;
+  align-items: center;
+  text-align: center;
+}
